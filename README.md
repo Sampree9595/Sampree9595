@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring different things
 - 🌱 I’m currently learning for java full stack developer
 - 💞️ I’m looking to collaborate on java full stack development 
-- 📫 How to reach me linkdin
+- 📫 How to reach me - Follow me on linkdin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
