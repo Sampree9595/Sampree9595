@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Sampree9595
+- 👋 Hi, I’m Sampreeth C
+- Electronics and Communication Engineering Graduate
+- NIT CALICUT
 - 👀 I’m interested in exploring different things
 - 🌱 I’m currently learning for java full stack developer
 - 💞️ I’m looking to collaborate on java full stack development 
